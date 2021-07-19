@@ -20,4 +20,4 @@ tokio-postgres = { version = "0.7" }
 tonic = { version = "0.4", features = ["tls"] }
 
 [build-dependencies]
-tonic-build = { version = "0.4" }
+tonic-build = { version = "0.5" }
